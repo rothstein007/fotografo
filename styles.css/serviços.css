@@ -1,0 +1,48 @@
+.container__categorias{
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    background-color: rgb(145, 206, 173);
+    }
+    
+    .servicos__titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(145, 206, 173);
+    }
+    
+    .container__imagem-paisagismo{
+    width: 30vw;
+    height: auto;
+    margin: 1em;
+    }
+    .container__imagem-paisagismo-texto{
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    font: 1em sans-serif;
+    }
+    .container__imagem-podas-texto{
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    font: 1em sans-serif;
+    }
+    .container__manutenção-grama{
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+    font: 1em sans-serif;
+    }
+    .container__imagem-podas{
+    width: 30vw;
+    height: auto;
+    margin: 1em;
+    }
+    .container__imagem-manutenção{
+    
+    width: 30vw;
+    height: auto;
+    margin: 1em;
+    }
